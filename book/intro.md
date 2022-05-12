@@ -1,4 +1,4 @@
-# Statistics and Data Science
+# Statistics and Data Science new
 
 This is the start of a book for a graduate-level course at NYU Physics titled *Statistics and Data Science*.
 
@@ -42,10 +42,12 @@ Here are some of the objectives of this course:
     * Gain confidence in using scientific python and modern data science tools to analyze real data
 
 ```{warning} Please note that the class website is under active development, and content will be added throughout the duration of the course.
+
 ```
 
 
 ```{tip} If you would like to audit this class, email Prof. Cranmer (kyle.cranmer at nyu ) with your NYU netID
+
 ```
 
 ```{note}
